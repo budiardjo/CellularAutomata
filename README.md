@@ -1,8 +1,8 @@
-#Cellular Automata using java
+# Cellular Automata using java
 
 ![Done!](ss.png)
 
 
-##credit 
+## credit 
 
 john purcell
