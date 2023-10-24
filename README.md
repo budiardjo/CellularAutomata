@@ -2,7 +2,5 @@
 
 ![Done!](ss.png)
 
-
-## credit 
-
-john purcell
+### To do
+// porting into c and sdl2
